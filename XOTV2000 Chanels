@@ -11,8 +11,7 @@ https://tv.chachatv.tk:443/live/tilfaz09/arab09/264.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="Syria TV" tvg-logo="" group-title="سوريا|Syria",Tarbaouia
 http://82.137.248.16:1935/SEdu/stream19042021/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Syria TV" tvg-logo="" group-title="سوريا|Syria",Noor Sham
-https://tv.chachatv.tk:443/live/syria87028/pas874509/264.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="Syria TV" tvg-logo="" group-title="سوريا|Syria",Halab Today TV
 http://streaming.tootvs.com:1935/8010/8010/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Syria TV" tvg-logo="" group-title="سوريا|Syria",ALARABY
