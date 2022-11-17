@@ -48,8 +48,6 @@ https://manar.live/iptv/playlist.m3u8
 https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="لبنان Lebanon",Al Wifak TV
 http://alwifaklive.info:1935/live/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="لبنان Lebanon",Arabica Music
-http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="لبنان Lebanon",Nabaa TV
 http://31.14.40.237:1935/live/Nabaa/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="لبنان Lebanon",Alalam
@@ -71,6 +69,9 @@ https://rotanastudios-lbc-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="لبنان Lebanon",One TV
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="لبنان Lebanon",Lebanon TV
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="لبنان Lebanon",Arabica Music
+http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 
 
 
