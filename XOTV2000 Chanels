@@ -10,8 +10,6 @@ https://video1.getstreamhosting.com:1936/8320/8320/playlist.m3u8
 https://ikomg1.s.llnwi.net/alyaumtv/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/Bg52GiG.png" group-title="سوريا Syria",قناه سما
 http://142.132.224.85:1935/redirect/live/smil:mystream1.smil?scheme=m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://palsawa.com/thumb/660x400/uploads/images/2021/07/kNDJa.png" group-title="سوريةSyria",Lana لـــنـــا
-https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc/master22-vod.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3NCMjTK" group-title="سوريا Syria",Al Mahliya المحلية
 http://vod.ortas.sy:1935/oLive/aloula05042022/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ajsrKzA.png" group-title="سوريا Syria",Essouriya السورية 
@@ -30,7 +28,7 @@ http://vod.ortas.sy:1935/oLive/souryana05042022/playlist.m3u8
 http://82.137.248.16:1935/oLive/snews05042022/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="سوريا Syria",SYR-ALalam Syria
 https://live2.presstv.ir/live/alam_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="سوريا Syria",Lana لانا
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://palsawa.com/thumb/660x400/uploads/images/2021/07/kNDJa.png" group-title="سوريا Syria",Lana لانا
 https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc/master22-vod.m3u8
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3MY6StT" group-title="سوريا Syria",SYR- AmwajLive FM
