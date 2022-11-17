@@ -1,13 +1,11 @@
 #EXTINF:-1 tvg-id="" tvg-name="Syria TV" tvg-logo="https://yt3.ggpht.com/X7sDHKiCaL-U9m4KX_Ln_7kn7z3YMAvAvAUYpZ4izlRocj4hKGWumXwtTHQ9fYBHWY2CwDGvvz8=s900-c-k-c0x00ffffff-no-rj" group-title="سوريا|Syria",Syria TV
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Syria TV" tvg-logo="" group-title="سوريا|Syria",SYRIA STREAM
-https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatvpublish/syriatv/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Syria TV" tvg-logo="" group-title="سوريا|Syria",SAMA
 http://142.132.224.85:1935/redirect/live/smil:mystream1.smil?scheme=m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Syria TV" tvg-logo="" group-title="سوريا|Syria",ALSYRIAY
-http://212.224.98.208:2200/TN/syriasatellitechannel-ar/tracks-v1a1/mono.m3u8?token=STATIC
+#EXTINF:-1 tvg-id="" tvg-name="Syria TV" tvg-logo="" group-title="سوريا|Syria",Syria 1
+http://vod.ortas.sy:1935/oLive/sat05042022/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Syria TV" tvg-logo="" group-title="سوريا|Syria",SYRIA DRAMA
-http://212.224.98.204:2200/TN/syriandramatv-ar/tracks-v1a1/mono.m3u8?token=STATIC
+https://aloka-arena.online:443/strem7786/time7657/668
 #EXTINF:-1 tvg-id="" tvg-name="Syria TV" tvg-logo="" group-title="سوريا|Syria",Tarbaouia
 http://82.137.248.16:1935/SEdu/stream19042021/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Syria TV" tvg-logo="" group-title="سوريا|Syria",Noor Sham
