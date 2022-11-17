@@ -74,6 +74,87 @@ https://rotanastudios-lbc-1-eu.xiaomi.wurl.tv/playlist.m3u8
 http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 
 
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="فلسطين Palestine",Alfajer 2
+http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/chunks.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="فلسطين Palestine",وكالة معا الاخبارية
+http://htvmada.mada.ps:8888/maannews/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="فلسطين Palestine",AWDAH TV
+http://htvpalsat.mada.ps:8888/audeh/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="فلسطين Palestine",Hettin
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="فلسطين Palestine",Rajeen TV
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="فلسطين Palestine",Rehan TV
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="فلسطين Palestine",Palestine-AL Yaum
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="فلسطين Palestine",Palestine
+http://htvpalsat.mada.ps:8888/PBC/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="فلسطين Palestine",Musawa TV
+http://htvpalsat.mada.ps:8888/musawa/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="فلسطين Palestine",Palestine Live
+http://htvpalsat.mada.ps:8888/PBCLive/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="فلسطين Palestine",Palestinee TV
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="فلسطين Palestine",Ajyal TV
+http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="فلسطين Palestine",Hala TV
+https://gstream4.panet.co.il/edge/halaTV/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="فلسطين Palestine",Wattan TV
+http://217.21.0.15:8081/WattanHD/WattanHD/chunks.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="فلسطين Palestine",Nablus TV
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="فلسطين Palestine",NBC Alnajah 
+https://streaming.najah.edu:8443/hls/AlNajah_mid/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="فلسطين Palestine",Alquds
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="فلسطين Palestine",Mawwal HD
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="فلسطين Palestine",Nablus live
+http://htvmada.mada.ps:8888/nabluslive/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="فلسطين Palestine",Nablus 1 live Z
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="فلسطين Palestine",Quran Nablus Z
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="فلسطين Palestine",Horyaa 1
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="فلسطين Palestine",Horyaa 2
+http://vstream3.hadara.ps:8081/hrHD_web/web/chunks.m3u8
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="فلسطين Palestine",Horyaa 3
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="فلسطين Palestine",Alaqsa
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="فلسطين Palestine",Almdina
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="فلسطين Palestine",Baladna TV
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="فلسطين Palestine",Holyquran
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="فلسطين Palestine",Pnn TV
+http://217.21.0.15:8081/pnn/pnn/chunks.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="فلسطين Palestine",Orient TV
+http://htvint.mada.ps:8889//orient/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="فلسطين Palestine",Hala Ramallah
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="فلسطين Palestine",Albalad AR
+http://streaming.zaytonatube.com:8080/radioalbalad/radioalbalad/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="فلسطين Palestine",RAJEEN TV
+https://mn-nl.mncdn.com/palabroad/live/chunklist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="فلسطين Palestine",Radio-9090Online
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="فلسطين Palestine",Radio Albalad
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="فلسطين Palestine",Marah FM
+http://vstream3.hadara.ps:8081/marahFM_web/web/chunks.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="فلسطين Palestine",Shabab FM
+
+
+
+
+
+
+
 
 
 
