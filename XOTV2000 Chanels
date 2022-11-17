@@ -4,14 +4,12 @@ https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist.m3u8
 https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="سوريا Syria",ALARABY 2 TV HD
 https://alaraby.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/xBcBG2z.png" group-title="سوريا Syria",SYR-HALAB TODAY SD
-http://streaming.tootvs.com:1935/8010/8010/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/xBcBG2z.png" group-title="سوريا Syria",SYR-HALAB TODAY (Backup 1)
-https://5caf24a595d94.streamlock.net:1937/8010/8010/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/xBcBG2z.png" group-title="سوريا Syria",SYR-HALAB TODAY 
+https://video1.getstreamhosting.com:1936/8320/8320/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Lqj2S4" group-title="سوريا Syria",SYR-قناة اليوم
 https://ikomg1.s.llnwi.net/alyaumtv/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/Bg52GiG.png" group-title="سوريا Syria",قناه سما
-http://142.132.224.85:1935/live/_definst_/smil:mystream1.smil/chunklist.m3u8
+http://142.132.224.85:1935/redirect/live/smil:mystream1.smil?scheme=m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://palsawa.com/thumb/660x400/uploads/images/2021/07/kNDJa.png" group-title="سوريةSyria",Lana لـــنـــا
 https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc/master22-vod.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3NCMjTK" group-title="سوريا Syria",Al Mahliya المحلية
@@ -28,35 +26,11 @@ http://vod.ortas.sy:1935/oLive/nour05042022/playlist.m3u8
 http://vod.ortas.sy:1935/oLive/sedu05042022/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/j5o8ZPm.png" group-title="سوريا Syria",Souryana سوريانا 
 http://vod.ortas.sy:1935/oLive/souryana05042022/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3NCMjTK" group-title="سوريا Syria",Al Mahliya المحلية
-http://82.137.248.16:1935/oLive/aloula05042022/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3uUUuSJ" group-title="سوريا Syria",Essouriya السورية 
-http://82.137.248.16:1935/oLive/sat05042022/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6KUtkKz.png" group-title="سوريا Syria",El Ikhbariya الإخبارية 
 http://82.137.248.16:1935/oLive/snews05042022/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/5EnxvkU.png" group-title="سوريا Syria",Drama دراما
-http://82.137.248.16:1935/oLive/drama05042022/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3MY6StT" group-title="سوريا Syria",SYR- AmwajLive FM
-http://82.137.248.16:1935/RAmwaj/RAmwajLive/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3a5GJLs" group-title="سوريا Syria",SYR-اذاعة زنوبيا FM
-http://82.137.248.16:1935/RZenobia/RZenobiaLive/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="سوريا Syria",KarmaLive FM
-http://82.137.248.16:1935/RKarma/RKarmaLive/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="سوريا Syria",DimshqLive FM
-http://82.137.248.16:1935/RDimshq/RDimshqLive/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3z4v1ee" group-title="سوريا Syria",sham FM
-
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="سوريا Syria",SYR-ALalam Syria
 https://live2.presstv.ir/live/alam_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="سوريا Syria",Lana لانا
 https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc/master22-vod.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="سوريا Syria",SAMA
-http://142.132.224.85:1935/redirect/live/smil:mystream1.smil?scheme=m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="سوريا Syria",Syria 1
-http://vod.ortas.sy:1935/oLive/sat05042022/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="سوريا Syria",Syrian News الاخبارية
-http://vod.alikhbaria.net:1935/oLive/snews05042022/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="سوريا Syria",Souryana سوريا 
-http://vod.ortas.sy:1935/oLive/souryana05042022/playlist.m3u8
+
 
