@@ -9,7 +9,7 @@ https://video1.getstreamhosting.com:1936/8320/8320/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Lqj2S4" group-title="سوريا Syria",SYR-قناة اليوم
 https://ikomg1.s.llnwi.net/alyaumtv/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/Bg52GiG.png" group-title="سوريا Syria",قناة سما
-http://142.132.224.85:1935/redirect/live/smil:mystream1.smil?scheme=m3u8
+http://157.90.243.220:1935/live/_definst_/smil:mystream1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6KUtkKz.png" group-title="سوريا Syria",El Ikhbariya الإخبارية 
 http://vod.alikhbaria.net:1935/oLive/snews05042022/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3NCMjTK" group-title="سوريا Syria",Al Mahliya المحلية
@@ -28,7 +28,6 @@ http://vod.ortas.sy:1935/oLive/souryana05042022/playlist.m3u8
 https://live2.presstv.ir/live/alam_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://palsawa.com/thumb/660x400/uploads/images/2021/07/kNDJa.png" group-title="سوريا Syria",Lana لانا
 https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc/master22-vod.m3u8
-
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3MY6StT" group-title="سوريا Syria",SYR- AmwajLive FM
 http://82.137.248.16:1935/RAmwaj/RAmwajLive/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3a5GJLs" group-title="سوريا Syria",SYR-اذاعة زنوبيا FM
@@ -37,5 +36,47 @@ http://82.137.248.16:1935/RZenobia/RZenobiaLive/playlist.m3u8
 http://82.137.248.16:1935/RKarma/RKarmaLive/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="سوريا Syria",DimshqLive FM
 http://82.137.248.16:1935/RDimshq/RDimshqLive/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="لبنان Lebanon",MTV HD
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="لبنان Lebanon",Seventeen Tv
+https://cdn.tvseventeen.com/test_tv_seventeen/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="لبنان Lebanon",Al Manar SD
+https://manar.live/iptv/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="لبنان Lebanon",Al Mayadeen SD
+https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="لبنان Lebanon",Al Wifak TV
+http://alwifaklive.info:1935/live/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="لبنان Lebanon",Arabica Music
+http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="لبنان Lebanon",Nabaa TV
+http://31.14.40.237:1935/live/Nabaa/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="لبنان Lebanon",Alalam
+https://live2.alalam.ir/alalam.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="لبنان Lebanon",Aliman TV
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="لبنان Lebanon",OTV
+http://62.182.82.104/OTV/index.m3u8?token=test
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="لبنان Lebanon",NBN
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="لبنان Lebanon",LBC
+https://rotanastudios-lbc-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="لبنان Lebanon",Future
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="لبنان Lebanon",Aljadeed
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/aljadeedtv
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="لبنان Lebanon",Aleyman
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="لبنان Lebanon",One TV
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="لبنان Lebanon",Lebanon TV
+
+
+
+
+
+
+
 
 
