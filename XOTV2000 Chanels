@@ -33,4 +33,13 @@ https://live2.presstv.ir/live/alam_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="سوريا Syria",Lana لانا
 https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc/master22-vod.m3u8
 
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3MY6StT" group-title="سوريا Syria",SYR- AmwajLive FM
+http://82.137.248.16:1935/RAmwaj/RAmwajLive/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3a5GJLs" group-title="سوريا Syria",SYR-اذاعة زنوبيا FM
+http://82.137.248.16:1935/RZenobia/RZenobiaLive/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="سوريا Syria",KarmaLive FM
+http://82.137.248.16:1935/RKarma/RKarmaLive/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="سوريا Syria",DimshqLive FM
+http://82.137.248.16:1935/RDimshq/RDimshqLive/playlist.m3u8
+
 
