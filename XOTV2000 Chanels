@@ -1,30 +1,30 @@
-#EXTINF:-1 tvg-id="Syria TV" tvg-name="Syria TV" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngjufkmJJNjgPzGkxcvo6HLBtgl0pIdPZcHLDja=s900-c-k-c0x00ffffff-no-rj" group-title="سوريا|Syria",Syria TV
+#EXTINF:-1 tvg-id="" tvg-name="Syria TV" tvg-logo="https://yt3.ggpht.com/X7sDHKiCaL-U9m4KX_Ln_7kn7z3YMAvAvAUYpZ4izlRocj4hKGWumXwtTHQ9fYBHWY2CwDGvvz8=s900-c-k-c0x00ffffff-no-rj" group-title="سوريا|Syria",Syria TV
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="سوريا|Syria",[KHALIL PRO] SYRIA STREAM
+#EXTINF:-1 tvg-id="" tvg-name="Syria TV" tvg-logo="" group-title="سوريا|Syria",SYRIA STREAM
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatvpublish/syriatv/chunks.m3u8
-#EXTINF:0 tvg-id="ext" group-title="سوريا|Syria",[KHALIL PRO] SAMA
+#EXTINF:-1 tvg-id="" tvg-name="Syria TV" tvg-logo="" group-title="سوريا|Syria",SAMA
 http://185.9.2.25:80/MCNC_SAMA_TV/tracks-v1a1/mono.m3u8?token=telearabiamax.tv
-#EXTINF:0 tvg-id="ext" group-title="سوريا|Syria",[KHALIL PRO] ALSYRIAY
+#EXTINF:-1 tvg-id="" tvg-name="Syria TV" tvg-logo="" group-title="سوريا|Syria",ALSYRIAY
 http://212.224.98.208:2200/TN/syriasatellitechannel-ar/tracks-v1a1/mono.m3u8?token=STATIC
-#EXTINF:0 tvg-id="ext" group-title="سوريا|Syria",[KHALIL PRO] SYRIA DRAMA
+#EXTINF:-1 tvg-id="" tvg-name="Syria TV" tvg-logo="" group-title="سوريا|Syria",SYRIA DRAMA
 http://212.224.98.204:2200/TN/syriandramatv-ar/tracks-v1a1/mono.m3u8?token=STATIC
-#EXTINF:0 tvg-id="ext" group-title="سوريا|Syria",[KHALIL PRO] Tarbaouia
+#EXTINF:-1 tvg-id="" tvg-name="Syria TV" tvg-logo="" group-title="سوريا|Syria",Tarbaouia
 http://82.137.248.16:1935/SEdu/stream19042021/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="سوريا|Syria",[KHALIL PRO] Noor Sham
+#EXTINF:-1 tvg-id="" tvg-name="Syria TV" tvg-logo="" group-title="سوريا|Syria",Noor Sham
 https://tv.chachatv.tk:443/live/syria87028/pas874509/264.ts
-#EXTINF:0 tvg-id="ext" group-title="سوريا|Syria",[KHALIL PRO] Halab Today TV
+#EXTINF:-1 tvg-id="" tvg-name="Syria TV" tvg-logo="" group-title="سوريا|Syria",Halab Today TV
 http://streaming.tootvs.com:1935/8010/8010/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="سوريا|Syria",[KHALIL PRO] ALARABY
+#EXTINF:-1 tvg-id="" tvg-name="Syria TV" tvg-logo="" group-title="سوريا|Syria",ALARABY
 http://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b1150000.m3u8
-#EXTINF:0 tvg-id="ext" group-title="سوريا|Syria",[KHALIL PRO] LANA
+#EXTINF:-1 tvg-id="" tvg-name="Syria TV" tvg-logo="" group-title="سوريا|Syria",LANA
 http://eitc.secure2.footprint.net/egress/chandler/emirates/eitc/m3u8/SDI1-720p.m3u8
-#EXTINF:0 tvg-id="ext" group-title="سوريا|Syria",[KHALIL PRO] LANA PLUS
+#EXTINF:-1 tvg-id="" tvg-name="Syria TV" tvg-logo="" group-title="سوريا|Syria",LANA PLUS
 https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc2/m3u8/sdi2-720p.m3u8
-#EXTINF:0 tvg-id="ext" group-title="سوريا|Syria",[KHALIL PRO] Alikhbaria Syria
+#EXTINF:-1 tvg-id="" tvg-name="Syria TV" tvg-logo="" group-title="سوريا|Syria",Alikhbaria Syria
 http://vod.alikhbaria.net:1935/Snews/stream19042021/chunklist_w831115281.m3u8
-#EXTINF:0 tvg-id="ext" group-title="سوريا|Syria",[KHALIL PRO] ALYAUM TV
+#EXTINF:-1 tvg-id="" tvg-name="Syria TV" tvg-logo="" group-title="سوريا|Syria",ALYAUM TV
 https://ikomg1.s.llnwi.net/alyaumtv/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="سوريا|Syria",[KHALIL PRO] ALALAM SYRIA
+#EXTINF:-1 tvg-id="" tvg-name="Syria TV" tvg-logo="" group-title="سوريا|Syria",ALALAM SYRIA
 https://live2.presstv.ir/live/alam_360p/chunklist_w1165767782.m3u8
-#EXTINF:0 tvg-id="ext" group-title="سوريا|Syria",[KHALIL PRO] SOURYANA
+#EXTINF:-1 tvg-id="" tvg-name="Syria TV" tvg-logo="" group-title="سوريا|Syria",SOURYANA
 http://82.137.248.16:1935/Souryana/stream19042021/playlist.m3u8?DVR
