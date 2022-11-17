@@ -3,7 +3,7 @@ https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Syria TV" tvg-logo="" group-title="سوريا|Syria",SYRIA STREAM
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatvpublish/syriatv/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Syria TV" tvg-logo="" group-title="سوريا|Syria",SAMA
-http://185.9.2.25:80/MCNC_SAMA_TV/tracks-v1a1/mono.m3u8?token=telearabiamax.tv
+http://142.132.224.85:1935/redirect/live/smil:mystream1.smil?scheme=m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Syria TV" tvg-logo="" group-title="سوريا|Syria",ALSYRIAY
 http://212.224.98.208:2200/TN/syriasatellitechannel-ar/tracks-v1a1/mono.m3u8?token=STATIC
 #EXTINF:-1 tvg-id="" tvg-name="Syria TV" tvg-logo="" group-title="سوريا|Syria",SYRIA DRAMA
