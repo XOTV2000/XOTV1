@@ -183,9 +183,9 @@ http://82.212.74.4:8000/live/2105.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="العراق Iraq",Dijlah Tv
 https://ghaasiflu.online/Dijlah/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="العراق Iraq",Al Rafidain 
-https://cdg8.edge.technocdn.com/arrafidaintv/abr_live/playlist.m3u8
+
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="العراق Iraq",Al Sharqiya
-https://5d94523502c2d.streamlock.net/home/mystream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="العراق Iraq",Al Sharqiya News
 https://5d94523502c2d.streamlock.net/alsharqiyalive/mystream/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="العراق Iraq",Al Hurra
@@ -255,7 +255,7 @@ https://sd343444.vodu.store:3356/live/Alghadeer/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="العراق Iraq",Iraq Asia
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="العراق Iraq",Iraq Kurdistan
-https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u
+
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="العراق Iraq",Imam Hussein Arabi
 https://media.streambrothers.com:1936/8248/8248/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="العراق Iraq",Imam Hussein Turki 
@@ -298,12 +298,10 @@ https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="العراق Iraq",Shabab Sport
 
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="العراق Iraq",Alsharqiya News
-http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="العراق Iraq",Iraqia Syriac
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="العراق Iraq",Iraqia Turkman
-https://137840.global.ssl.fastly.net/edge/live_6b7c6e205afb11ebb010f5a331abaf98/playlist.m3u8
+
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="العراق Iraq",Dua Channel
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="العراق Iraq",ABNsat
