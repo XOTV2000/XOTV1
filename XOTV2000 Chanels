@@ -160,7 +160,7 @@ https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="الاردن Jordan",Jordan Sport
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="الاردن Jordan",Amman TV
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/ammantv
+https://ammantv.c.s73cdn.net/23153d43-375a-472a-bc5f-9827582b5d22/elemental/live/master.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="الاردن Jordan",Almamlka TV
 https://almamlka-live.ercdn.net/almamlka/almamlka.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="الاردن Jordan",Jawhara
