@@ -1,3 +1,5 @@
+                             سوريا Syria
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/X7sDHKiCaL-U9m4KX_Ln_7kn7z3YMAvAvAUYpZ4izlRocj4hKGWumXwtTHQ9fYBHWY2CwDGvvz8=s900-c-k-c0x00ffffff-no-rj" group-title="سوريا Syria",Syria TV
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lh3.googleusercontent.com/3ZioMawJmMEc7ZdWoewRrpLgUJqwLz1kwHlFXd9ytRklzoRPBkmOpd9QhrdYxayPppQ" group-title="سوريا Syria",ALARABY TV HD
@@ -38,6 +40,7 @@ http://82.137.248.16:1935/RKarma/RKarmaLive/playlist.m3u8
 http://82.137.248.16:1935/RDimshq/RDimshqLive/playlist.m3u8
 
 
+                        لبنان Lebanon 
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="لبنان Lebanon",MTV HD
 
@@ -75,7 +78,8 @@ https://rotanastudios-lbc-1-eu.xiaomi.wurl.tv/playlist.m3u8
 http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 
 
-
+                          فلسطين Palestine
+                          
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="فلسطين Palestine",Alfajer 2
 http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/chunks.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="فلسطين Palestine",وكالة معا الاخبارية
@@ -152,7 +156,8 @@ http://vstream3.hadara.ps:8081/marahFM_web/web/chunks.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="فلسطين Palestine",Shabab FM
 
 
-
+                         الاردن Jordan
+                         
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="الاردن Jordan",Roya TV
 https://weyyak-live.akamaized.net/weyyak_roya/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="الاردن Jordan",JR-Jordan TV
@@ -173,3 +178,44 @@ https://master.starmena-cloud.com/hls/a1jo.m3u8
 http://82.212.74.4:8000/live/2105.m3u8
 
 
+                        العراق Iraq
+                        
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="العراق Iraq",
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="العراق Iraq",
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="العراق Iraq",
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="العراق Iraq",
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="العراق Iraq",
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="العراق Iraq",
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="العراق Iraq",
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="العراق Iraq",
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="العراق Iraq",
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="العراق Iraq",
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="العراق Iraq",
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="العراق Iraq",
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="العراق Iraq",
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="العراق Iraq",
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="العراق Iraq",
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="العراق Iraq",
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="العراق Iraq",
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="العراق Iraq",
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="العراق Iraq",
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="العراق Iraq",
