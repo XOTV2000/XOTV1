@@ -24,6 +24,14 @@ https://cdn-bursatv.yayin.com.tr/bursatv/bursatv/playlist.m3u8
 https://waw1.artiyerelmedya.net/kanal3/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="TURKEY",Kanal Z
 https://waw3.artiyerelmedya.net/kanalz/bant1/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="TURKEY",Kanal B
+http://212.174.58.161/hls-live/livepkgr/_definst_/liveevent/kanalb.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="TURKEY",
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="TURKEY",
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="TURKEY",
+
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="TURKEY",
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="TURKEY",Halk TV NEWS
