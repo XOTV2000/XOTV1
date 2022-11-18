@@ -1,0 +1,63 @@
+                             TURKEY
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="TURKEY",TRT 1
+https://tv-trt1.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://cdnw-onetv.github.io/logo/trt_2.png" group-title="TURKEY",TRT 2
+https://tv-trt2.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="TURKEY",TRT Turk
+https://tv-trtturk.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://cdnw-onetv.github.io/logo/d_max_tv.png" group-title="TURKEY",DMAX TV
+https://dogus-live.daioncdn.net/dmax/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://cdnw-onetv.github.io/logo/tv4_turkey.png" group-title="TURKEY",TV 4
+https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://cdnw-onetv.github.io/logo/tbmm_tv.png" group-title="TURKEY",TBMM TV
+https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="2778https://cdnw-onetv.github.io/logo/cine5_tv.png" group-title="TURKEY",CINE 5 TV
+https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://cdnw-onetv.github.io/logo/em_tv.png" group-title="TURKEY",EM TV
+http://cdn-tvem.yayin.com.tr/TVEM/TVEM/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://cdnw-onetv.github.io/logo/malatya_vuslat_tv.png" group-title="TURKEY",Vuslat TV
+https://waw1.artiyerelmedya.net/vuslattv/bant1/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="TURKEY",Bursa TV
+https://cdn-bursatv.yayin.com.tr/bursatv/bursatv/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="TURKEY",Kanal 3
+https://waw1.artiyerelmedya.net/kanal3/bant1/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="TURKEY",Kanal Z
+https://waw3.artiyerelmedya.net/kanalz/bant1/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="TURKEY",
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="TURKEY",Halk TV NEWS
+https://halktv-live.ercdn.net/halktv/halktv.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="TURKEY",Haber 61
+https://cdn-haber61tv.yayin.com.tr/haber61tv/smil:haber61tv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="TURKEY",24 TV NEWS
+https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="TURKEY",TRT Haber NEWS
+https://tv-trthaber.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="TURKEY",CNN TÜRK NEWS
+https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/track_3_750/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="TURKEY",TRT Belgesel Documentary
+https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="TURKEY",TRT Cocuk KIDS
+https://tv-trtcocuk.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="TURKEY",TRT Eba Ilkokul Education
+https://tv-e-okul00.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="TURKEY",TRT Eba Ortaokul Education
+https://tv-e-okul01.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="TURKEY",TRT Eba Lise Education
+https://tv-e-okul02.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="TURKEY",TRT Muzik MUSIK
+https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="TURKEY",Tempo TV MUSIK
+https://waw1.artiyerelmedya.net/tempotv/bant1/chunks.m3u8
+
+
+
+
+
+
+
+
+
+
