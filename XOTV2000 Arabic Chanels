@@ -339,7 +339,42 @@ https://mn-nl.mncdn.com/elsharq_live/live/playlist.m3u8
 http://media6.smc-host.com:1935/omgchannel.net/omgtv/playlist.m3u8
 
 
+                         المغرب Marocco
+                         
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="المغرب Marocco", Al Aoula
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="المغرب Marocco", M 24
+https://www.m24tv.ma/live/smil:OutStream1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="المغرب Marocco", Al 2M Monde
+https://edge13.vedge.infomaniak.com/livecast/chadatv/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="المغرب Marocco",Al Maghribia
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="المغرب Marocco",Arryadia 3
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="المغرب Marocco",ARRABIAA 4
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="المغرب Marocco",Assadissa
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="المغرب Marocco",TAMAZIGHT
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="المغرب Marocco",MEDI 1 MG
+http://streaming1.medi1tv.com/live/smil:medi1tv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="المغرب Marocco",MEDI 1 AR
+http://streaming1.medi1tv.com/live/smil:medi1ar.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="المغرب Marocco",TELE MAROC
+https://api.new.livestream.com/accounts/27130247/events/8196478/live.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="المغرب Marocco",CHADA TV
+https://edge13.vedge.infomaniak.com/livecast/chadatv/playlist.m3u8
 
+
+
+
+
+
+
+
+
+  
 
 
 
