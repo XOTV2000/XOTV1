@@ -1,4 +1,53 @@
-                             سوريا Syria
+   
+   
+   
+                              الاخبار NEWS
+                                  
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="الاخبار NEWS",BBC Arabic
+https://vs-hls-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2_akamai_hls_live.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="الاخبار NEWS",DW Arabic
+https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
+
+   
+   
+                           اطفال CHildren 
+
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="اطفال CHildren",MBC 3
+https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="اطفال CHildren",قناة اطفال ومواهب
+https://5d658d7e9f562.streamlock.net/atfal1.com/atfal2/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="اطفال CHildren", Cartoon Network بالعربية
+https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="اطفال CHildren",CGTN العربية
+https://news.cgtn.com/resource/live/arabic/cgtn-a.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="اطفال CHildren",Gulli بالعربي
+https://shls-gulli-bil-arabi-prod-dub.shahid.net/out/v1/5454d215afba410c90b233f400730958/index.m3u8   
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="اطفال CHildren",Hala London                         
+https://halaldn.cdn.mangomolo.com/halavd/smil:halavd.stream.smil/playlist.m3u8
+                         
+                         
+  
+                          MBC أم بي سي 
+                         
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="MBC أم بي سي",MBC 3                         
+https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="MBC أم بي سي",MBC 5                         
+https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="MBC أم بي سي",MBC Drama                                                 
+https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="MBC أم بي سي",MBC FM                                                
+https://mbcfm-riyadh-prod-dub.shahid.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="MBC أم بي سي",MBC Iraq                                                
+https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="MBC أم بي سي",MBC Masr                                                
+https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="MBC أم بي سي",MBC Masr 2                                                
+https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
+
+
+                         
+                         سوريا Syria
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/X7sDHKiCaL-U9m4KX_Ln_7kn7z3YMAvAvAUYpZ4izlRocj4hKGWumXwtTHQ9fYBHWY2CwDGvvz8=s900-c-k-c0x00ffffff-no-rj" group-title="سوريا Syria",Syria TV
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist.m3u8
@@ -28,7 +77,7 @@ http://vod.ortas.sy:1935/oLive/sedu05042022/playlist.m3u8
 http://vod.ortas.sy:1935/oLive/souryana05042022/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.zarkachat.com/wp-content/uploads/2020/09/alam-syria-2929.png" group-title="سوريا Syria",SYR-ALalam Syria
 https://live2.presstv.ir/live/alam_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://palsawa.com/thumb/660x400/uploads/images/2021/07/kNDJa.png" group-title="سوريا Syria",Lana لانا
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://palsawa.com/thumb/660x400/uploads/images/2021/07/kNDJa.png" group-title="سوريا Syria",Lana لنا
 https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc/master22-vod.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3MY6StT" group-title="سوريا Syria",SYR- AmwajLive FM
 http://82.137.248.16:1935/RAmwaj/RAmwajLive/playlist.m3u8
@@ -76,6 +125,8 @@ https://rotanastudios-lbc-1-eu.xiaomi.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="لبنان Lebanon",Arabica Music
 http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="لبنان Lebanon",Hala london
+https://halaldn.cdn.mangomolo.com/halavd/smil:halavd.stream.smil/playlist.m3u8
 
 
                           فلسطين Palestine
@@ -86,6 +137,8 @@ http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/chunks.m3u8
 http://htvmada.mada.ps:8888/maannews/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="فلسطين Palestine",AWDAH TV
 http://htvpalsat.mada.ps:8888/audeh/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="فلسطين Palestine",AWDAH TV (Backup1)
+http://htvpalsat.mada.ps:8888/audeh/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="فلسطين Palestine",Hettin
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="فلسطين Palestine",Rajeen TV
@@ -113,8 +166,6 @@ http://217.21.0.15:8081/WattanHD/WattanHD/chunks.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="فلسطين Palestine",NBC Alnajah 
 https://streaming.najah.edu:8443/hls/AlNajah_mid/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="فلسطين Palestine",Alquds
-
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="فلسطين Palestine",Mawwal HD
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="فلسطين Palestine",Nablus live
 http://htvmada.mada.ps:8888/nabluslive/tracks-v1a1/mono.m3u8
@@ -151,6 +202,8 @@ https://mn-nl.mncdn.com/palabroad/live/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="فلسطين Palestine",Radio Albalad
 
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="فلسطين Palestine",Mawwal HD
+http://vstream3.hadara.ps:8081/MawwalHD_web/web/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="فلسطين Palestine",Marah FM
 http://vstream3.hadara.ps:8081/marahFM_web/web/chunks.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="فلسطين Palestine",Shabab FM
@@ -259,7 +312,7 @@ https://sd343444.vodu.store:3356/live/Alghadeer/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="العراق Iraq",Iraq Kurdistan
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="العراق Iraq",Imam Hussein Arabi
-
+https://live.imamhossaintv.com/live/ih2.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="العراق Iraq",Imam Hussein Turki 
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="العراق Iraq",Alrabiaa
@@ -323,6 +376,8 @@ https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8
 http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="مصر Egypt",MBC Masr
 https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="مصر Egypt",MBC Masr 2                                                
+https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="مصر Egypt",Elsharq TV
 https://mn-nl.mncdn.com/elsharq_live/live/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="مصر Egypt",Al Ghad
@@ -335,10 +390,11 @@ https://mn-nl.mncdn.com/elsharq_live/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="مصر Egypt",
 
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="مصر Egypt",
-
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="مصر Egypt",Omg TV
 http://media6.smc-host.com:1935/omgchannel.net/omgtv/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="مصر Egypt",قناة هلا
+https://gstream4.panet.co.il/edge/halaTV/playlist.m3u8
+
 
 
                          المغرب Marocco
@@ -347,6 +403,8 @@ http://media6.smc-host.com:1935/omgchannel.net/omgtv/playlist.m3u8
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="المغرب Marocco", M 24
 https://www.m24tv.ma/live/smil:OutStream1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="المغرب Marocco", M 24 (Backup1)
+http://79.137.106.241/live/smil:OutStream1.smil/chunklist_w575132091_b4500000_sleng.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="المغرب Marocco", Al 2M Monde
 https://edge13.vedge.infomaniak.com/livecast/chadatv/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="المغرب Marocco",Al Maghribia
@@ -521,22 +579,46 @@ https://svs.itworkscdn.net/alrayyanqadeemlive/alrayyanqadeem.smil/playlist.m3u8
 http://m.live.net.sa:1935/live/quran/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="السعودية Saudi-Arabia",السنة النبيوية
 https://gulfsat.cdn.easybroadcast.fr/abr_live/Al-Shahed/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="السعودية Saudi-Arabia",كيف
+http://82.212.74.2:8000/live/hls/7311.m3u8
 
 
 
                              الامارات Emirates
-
+                             
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="الامارات Emirates",Dubai TV
+https://dmisxthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="الامارات Emirates",Abu Dhabi TV
 https://svs.itworkscdn.net/aghanilive/aghanilive/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="الامارات Emirates", الامارات 
 https://5b18be6964c2f.streamlock.net/m/ngrp:ahul_all/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="الامارات Emirates", Alsharqiya from Kalba
+https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="الامارات Emirates",Dubai Zaman
+https://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="الامارات Emirates", ابو ظبي الرياضية 1
 http://htvajyal.mada.ps:8888/ajyal/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="الامارات Emirates", ابو ظبي الرياضية 2
 https://live2.alalam.ir/alalam.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="الامارات Emirates", Alsharqiya from Kalba
-https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="الامارات Emirates",
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="الامارات Emirates", ابو ظبي الرياضية 3
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="الامارات Emirates",دبي الرياضية 1
+https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="الامارات Emirates",دبي الرياضية 2
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="الامارات Emirates",دبي الرياضية 3
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="الامارات Emirates",Dubai Racing 1
+https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="الامارات Emirates",Dubai Racing 2
+https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="الامارات Emirates",Dubai Racing 3
+https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
+
+
+
+
+
 
                         اليمن Yemen
 
