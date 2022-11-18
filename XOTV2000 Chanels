@@ -192,6 +192,8 @@ https://5d94523502c2d.streamlock.net/alsharqiyalive/mystream/playlist.m3u8
 https://mbnvvideoingest-i.akamaihd.net/hls/live/1004673/MBNV_ALHURRA_MAIN/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="العراق Iraq",AlHurra
 
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="العراق Iraq",Alrashid
+http://cdn.catiacast.video/imn/2d51fe4a0ba54894421ead1809309ed9.sdp/chunks.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="العراق Iraq",MBC Iraq
 https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="العراق Iraq",Zagros
@@ -209,8 +211,6 @@ http://streaming.aletejahtv.iq:1935/etejah-newLive/smil:etejahNew.smil/playlist.
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="العراق Iraq",Afaq TV
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="العراق Iraq",12Arabia
-
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="العراق Iraq",anlojaba TV 
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="العراق Iraq",Hona Baghdad هنا بغداد
 
@@ -233,9 +233,9 @@ http://streaming.aletejahtv.iq:1935/etejah-newLive/smil:etejahNew.smil/playlist.
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="العراق Iraq",Baghdad بفداد
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="العراق Iraq",Alghadeer 
-
+https://sd343444.vodu.store:3356/live/Alghadeer/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="العراق Iraq",Alrasheed
-http://mbn-lh.akamaihd.net/i/mbn_univ_live_1_1@190422/master.m3u8
+
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="العراق Iraq",Alhurra Iraq
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="العراق Iraq",Alhurra Iraq
@@ -255,9 +255,9 @@ http://mbn-lh.akamaihd.net/i/mbn_univ_live_1_1@190422/master.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="العراق Iraq",Iraq Asia
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="العراق Iraq",Iraq Kurdistan
-
+https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="العراق Iraq",Imam Hussein Arabi
-
+https://media.streambrothers.com:1936/8248/8248/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="العراق Iraq",Imam Hussein Turki 
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="العراق Iraq",Alrabiaa
@@ -271,7 +271,7 @@ http://mbn-lh.akamaihd.net/i/mbn_univ_live_1_1@190422/master.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="العراق Iraq",Alsumaria
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="العراق Iraq",Rudaw
-
+https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="العراق Iraq",Alanbar
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="العراق Iraq",Alanwar2
@@ -299,7 +299,7 @@ http://mbn-lh.akamaihd.net/i/mbn_univ_live_1_1@190422/master.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="العراق Iraq",Shabab Sport
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="العراق Iraq",Alsharqiya News
-
+http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="العراق Iraq",Iraqia Syriac
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="العراق Iraq",Iraqia Turkman
