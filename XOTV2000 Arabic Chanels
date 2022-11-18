@@ -596,12 +596,6 @@ https://5b18be6964c2f.streamlock.net/m/ngrp:ahul_all/playlist.m3u8
 https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="الامارات Emirates",Dubai Zaman
 https://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="الامارات Emirates", ابو ظبي الرياضية 1
-http://htvajyal.mada.ps:8888/ajyal/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="الامارات Emirates", ابو ظبي الرياضية 2
-https://live2.alalam.ir/alalam.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="الامارات Emirates", ابو ظبي الرياضية 3
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="الامارات Emirates",دبي الرياضية 1
 https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="الامارات Emirates",دبي الرياضية 2
