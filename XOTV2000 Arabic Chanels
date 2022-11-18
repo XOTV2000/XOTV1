@@ -185,7 +185,9 @@ https://ghaasiflu.online/Dijlah/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="العراق Iraq",Al Rafidain 
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="العراق Iraq",Al Sharqiya
-
+http://ns8.indexforce.com:1935/home/mystream/chunklist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="العراق Iraq",Al Sharqiya SD
+http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="العراق Iraq",Al Sharqiya News
 https://5d94523502c2d.streamlock.net/alsharqiyalive/mystream/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="العراق Iraq",Al Hurra
@@ -193,7 +195,7 @@ https://5d94523502c2d.streamlock.net/alsharqiyalive/mystream/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="العراق Iraq",AlHurra
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="العراق Iraq",Alrashid
-
+https://media1.livaat.com/AL-RASHEED-HD/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="العراق Iraq",MBC Iraq
 https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="العراق Iraq",Zagros
@@ -363,19 +365,189 @@ http://streaming1.medi1tv.com/live/smil:medi1tv.smil/playlist.m3u8
 http://streaming1.medi1tv.com/live/smil:medi1ar.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="المغرب Marocco",TELE MAROC
 https://api.new.livestream.com/accounts/27130247/events/8196478/live.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="المغرب Marocco",CHADA TV
-https://edge13.vedge.infomaniak.com/livecast/chadatv/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="المغرب Marocco",CHADA TVhttps://edge13.vedge.infomaniak.com/livecast/chadatv/playlist.m3u8
+
+
+                     تونس Tunisie
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="تونس Tunisie",Mosaque موزاييك
+https://webcam.mosaiquefm.net:1936/mosatv/studio/chunklist_w1898947223.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="تونس Tunisie",Tunummob TV
+https://5ac31d8a4c9af.streamlock.net/tunimmob/myStream/chunklist_w59913614.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="تونس Tunisie",Sahel TV
+https://5ac31d8a4c9af.streamlock.net/saheltv/_definst_/myStream/chunklist_w1556140460.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="تونس Tunisie",الإذاعة الوطنية
+http://188.165.181.186:1935/radiotn/nationale_video/chunklist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="تونس Tunisie",RTCI
+http://188.165.181.186:1935/radiotn/rtci_video/chunklist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="تونس Tunisie",Jawhara HD
+https://streaming.toutech.net/live/jfm/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="تونس Tunisie",
 
 
 
+                  الجزائر Algeria
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="الجزائر Algeria", 
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="الجزائر Algeria",
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="الجزائر Algeria",
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="الجزائر Algeria",
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="الجزائر Algeria",
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="الجزائر Algeria",
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="الجزائر Algeria",
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="الجزائر Algeria",
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="الجزائر Algeria",
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="الجزائر Algeria",
 
 
+                 ليبيا Libya
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="ليبيا Libya",Ly: Al Ahrar HD
+https://video.zidivo.com/live983/GrtjM_FNGC/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="ليبيا Libya",Ly:  Al hadath
+http://82.212.74.100:8000/live/8103.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="ليبيا Libya",
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="ليبيا Libya",
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="ليبيا Libya",
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="ليبيا Libya",
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="ليبيا Libya",
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="ليبيا Libya",
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="ليبيا Libya",
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="ليبيا Libya",
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="ليبيا Libya",
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="ليبيا Libya",
 
 
+                            السودان Sudan
+                            
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="السودان Sudan", Sudan TV
+https://list.iptvcat.com/my_list/s/cda2e841bfd25a73300d0a943a4bc72d.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="السودان Sudan",
 
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="السودان Sudan",
 
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="السودان Sudan",
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="السودان Sudan",
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="السودان Sudan",
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="السودان Sudan",
   
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="السودان Sudan",
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="السودان Sudan",Afriqia 1
+http://africatv.live.net.sa:1935/live/africatv/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="السودان Sudan",Afriqia 2
+http://africatv.live.net.sa:1935/live/africatv2/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="السودان Sudan",Afriqia 3
+http://africatv.live.net.sa:1935/live/africatv3/playlist.m3u8
 
 
+                        قطر Qatar
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="قطر Qatar", Qatar 1 TV
+https://media.streambrothers.com:1936/8724/8724/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="قطر Qatar", Qatar 2 TV
+https://master.starmena-cloud.com/hls/yemenshabab.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="قطر Qatar",Alrayan HD
+https://svs.itworkscdn.net/alrayyanlive/alrayyan.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="قطر Qatar",Alrayan 2 HD
+https://svs.itworkscdn.net/alrayyanqadeemlive/alrayyanqadeem.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="قطر Qatar",
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="قطر Qatar",
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="قطر Qatar",
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="قطر Qatar",
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="قطر Qatar",
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="قطر Qatar",
+
+
+
+                       الكويت Kuwait
+                       
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="الكويت Kuwait",
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="الكويت Kuwait",
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="الكويت Kuwait",
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="الكويت Kuwait",
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="الكويت Kuwait",
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="الكويت Kuwait",
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="الكويت Kuwait",
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="الكويت Kuwait",
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="الكويت Kuwait",
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="الكويت Kuwait",
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="الكويت Kuwait",
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="الكويت Kuwait",
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="الكويت Kuwait",
+
+
+                          السعودية Saudi-Arabia
+                          
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="السعودية Saudi-Arabia",Quran
+http://m.live.net.sa:1935/live/quran/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="السعودية Saudi-Arabia",السنة النبيوية
+https://gulfsat.cdn.easybroadcast.fr/abr_live/Al-Shahed/playlist.m3u8
+
+
+
+                             الامارات Emirates
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="الامارات Emirates",Abu Dhabi TV
+https://svs.itworkscdn.net/aghanilive/aghanilive/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="الامارات Emirates", الامارات 
+https://5b18be6964c2f.streamlock.net/m/ngrp:ahul_all/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="الامارات Emirates", ابو ظبي الرياضية 1
+http://htvajyal.mada.ps:8888/ajyal/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="الامارات Emirates", ابو ظبي الرياضية 2
+https://live2.alalam.ir/alalam.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="الامارات Emirates", Alsharqiya from Kalba
+https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="الامارات Emirates",
+
+                        اليمن Yemen
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="اليمن Yemen",Shabab TV
+https://admdn3.cdn.mangomolo.com/emarat/smil:emarat.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="اليمن Yemen",Almasira TV
+https://svs.itworkscdn.net/almasiralive/almasira.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="اليمن Yemen",Almasira Mubacher
+https://svs.itworkscdn.net/almasiramubacherlive/almasira.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="اليمن Yemen",Al Ghad Almoshrek
+http://82.212.74.3:8000/live/7512.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="اليمن Yemen",
 
 
