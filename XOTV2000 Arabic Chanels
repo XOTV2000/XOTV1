@@ -751,13 +751,13 @@ http://cdn.dwasat.com:1935/live/speda084k/playlist.m3u8
 https://muzkurd.com/sterktv/sterk/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="KURDISH",
 
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="KURDISH",K24
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="KURDISH",
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="KURDISH",
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="KURDISH",MED
 http://137.74.205.201/medmuzik/MedStream/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="KURDISH",URD Kurd
-https://muzkurd.com/Medya/live15/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="KURDISH",GK News TV
-https://live.jintv.org:12443/medialive/jintv.m3u8"
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="KURDISH",Kurdsat                         
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="KURDISH",Kurdsat
 https://stream.skynewsarabia.com/hls/sna.m3u8                         
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="KURDISH",4 Kurd                         
 http://51.210.199.23/hls/stream.m3u8
