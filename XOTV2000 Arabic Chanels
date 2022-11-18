@@ -3,6 +3,8 @@
    
                               الاخبار NEWS
                                   
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="الاخبار NEWS",Aljazeera Arabic
+https://live-hls-web-aja.getaj.net/AJA/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="الاخبار NEWS",BBC Arabic
 https://vs-hls-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2_akamai_hls_live.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="الاخبار NEWS",Alalam
@@ -11,10 +13,22 @@ https://live2.alalam.ir/alalam.m3u8
 https://stream.skynewsarabia.com/hls/sna.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="الاخبار NEWS",TRT Arabi̇
 https://tv-trtarabi.live.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="الاخبار NEWS",CGTN العربية
-https://news.cgtn.com/resource/live/arabic/cgtn-a.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="الاخبار NEWS",Al Hadath
+https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="الاخبار NEWS",Alaraby News
+https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="الاخبار NEWS",Asharq News
+https://bcovlive-a.akamaihd.net/0b75ef0a49e24704a4ca023d3a82c2df/ap-south-1/6203311941001/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="الاخبار NEWS",DW Arabic
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="الاخبار NEWS",CGTN العربية
+https://news.cgtn.com/resource/live/arabic/cgtn-a.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="الاخبار NEWS",Al Maghribiya
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/al_maghribia_snrt.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="الاخبار NEWS",Al Sharqiya News
+http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="الاخبار NEWS",Libya Al Ahrar
+https://video.zidivo.com/live983/GrtjM_FNGC/tracks-v1a1/mono.m3u8
 
 
 
@@ -141,6 +155,8 @@ http://vod.ortas.sy:1935/oLive/souryana05042022/playlist.m3u8
 https://live2.presstv.ir/live/alam_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://palsawa.com/thumb/660x400/uploads/images/2021/07/kNDJa.png" group-title="سوريا Syria",Lana لنا
 https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc/master22-vod.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://palsawa.com/thumb/660x400/uploads/images/2021/07/kNDJa.png" group-title="سوريا Syria",Lana لنا (Backup 1)
+https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc/m3u8/SDI1-720p.m3u8.vod.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3MY6StT" group-title="سوريا Syria",SYR- AmwajLive FM
 http://82.137.248.16:1935/RAmwaj/RAmwajLive/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3a5GJLs" group-title="سوريا Syria",SYR-اذاعة زنوبيا FM
@@ -458,8 +474,8 @@ https://svs.itworkscdn.net/sat7arabiclive/sat7arabic.smil/playlist_dvr.m3u8
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="مصر Egypt",
 
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="مصر Egypt",
-
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="مصر Egypt",Alhorreya TV
+http://media.smc-host.com:1935/alhorreya.tv/alhorreya.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="مصر Egypt",Omg TV
 http://media6.smc-host.com:1935/omgchannel.net/omgtv/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="مصر Egypt",قناة هلا
@@ -479,6 +495,8 @@ http://79.137.106.241/live/smil:OutStream1.smil/chunklist_w575132091_b4500000_sl
 https://edge13.vedge.infomaniak.com/livecast/chadatv/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="المغرب Marocco",Al Maghribia
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="المغرب Marocco",Laayoune TV
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/al_aoula_laayoune.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="المغرب Marocco",Arryadia 3
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="المغرب Marocco",ARRABIAA 4
@@ -495,6 +513,8 @@ http://streaming1.medi1tv.com/live/smil:medi1ar.smil/playlist.m3u8
 https://api.new.livestream.com/accounts/27130247/events/8196478/live.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="المغرب Marocco",CHADA TV
 https://edge13.vedge.infomaniak.com/livecast/chadatv/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="المغرب Marocco",Al Maghribiya
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/al_maghribia_snrt.m3u8
 
 
 
@@ -711,6 +731,12 @@ https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="الامارات Emirates",دبي الرياضية 3
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="الامارات Emirates",ابو ظبي الرياضية 1
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="الامارات Emirates",ابو ظبي الرياضية 2
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="الامارات Emirates",ابو ظبي الرياضية 3
+https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="الامارات Emirates",Dubai Racing 1
 https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="الامارات Emirates",Dubai Racing 2
